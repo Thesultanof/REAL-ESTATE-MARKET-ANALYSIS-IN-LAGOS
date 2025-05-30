@@ -1,0 +1,501 @@
+Landlord_ID,Name,Years_Listed,Verified_Status,Response_Rate,Listing_Count,Location_Focus
+LLD0000,Landlord_0,3,True,48,6,Yaba
+LLD0001,Landlord_1,4,False,65,7,Ajah
+LLD0002,Landlord_2,2,True,58,10,Ikeja
+LLD0003,Landlord_3,4,False,89,19,Iyana Ipaja
+LLD0004,Landlord_4,4,True,31,19,Ajah
+LLD0005,Landlord_5,1,True,30,12,Iyana Ipaja
+LLD0006,Landlord_6,2,False,76,3,Lekki
+LLD0007,Landlord_7,2,True,98,13,Surulere
+LLD0008,Landlord_8,2,True,49,18,Ajah
+LLD0009,Landlord_9,4,False,40,8,Lekki
+LLD0010,Landlord_10,3,False,31,15,Ajah
+LLD0011,Landlord_11,2,True,96,1,Ajah
+LLD0012,Landlord_12,4,True,41,3,Lekki
+LLD0013,Landlord_13,1,True,49,8,Ikeja
+LLD0014,Landlord_14,3,True,34,4,Yaba
+LLD0015,Landlord_15,1,True,66,16,Iyana Ipaja
+LLD0016,Landlord_16,3,True,67,10,Ajah
+LLD0017,Landlord_17,4,False,38,12,Iyana Ipaja
+LLD0018,Landlord_18,0,False,82,14,Surulere
+LLD0019,Landlord_19,3,False,73,14,Lekki
+LLD0020,Landlord_20,1,True,53,2,Iyana Ipaja
+LLD0021,Landlord_21,4,True,59,5,Lekki
+LLD0022,Landlord_22,3,True,88,5,Iyana Ipaja
+LLD0023,Landlord_23,0,True,43,6,Yaba
+LLD0024,Landlord_24,0,True,38,13,Yaba
+LLD0025,Landlord_25,2,False,69,9,Yaba
+LLD0026,Landlord_26,2,True,95,15,Yaba
+LLD0027,Landlord_27,1,True,54,14,Yaba
+LLD0028,Landlord_28,3,True,51,7,Yaba
+LLD0029,Landlord_29,3,False,33,2,Lekki
+LLD0030,Landlord_30,2,True,55,7,Ajah
+LLD0031,Landlord_31,3,True,87,6,Iyana Ipaja
+LLD0032,Landlord_32,3,True,58,17,Yaba
+LLD0033,Landlord_33,0,False,66,2,Lekki
+LLD0034,Landlord_34,2,True,99,3,Lekki
+LLD0035,Landlord_35,4,False,47,5,Lekki
+LLD0036,Landlord_36,2,False,71,5,Ajah
+LLD0037,Landlord_37,4,True,70,1,Iyana Ipaja
+LLD0038,Landlord_38,0,True,67,8,Ajah
+LLD0039,Landlord_39,1,False,63,12,Ikeja
+LLD0040,Landlord_40,3,True,46,4,Lekki
+LLD0041,Landlord_41,0,True,66,13,Ikeja
+LLD0042,Landlord_42,3,False,54,15,Surulere
+LLD0043,Landlord_43,1,False,56,11,Yaba
+LLD0044,Landlord_44,1,False,86,10,Yaba
+LLD0045,Landlord_45,0,False,60,3,Ajah
+LLD0046,Landlord_46,1,True,35,14,Iyana Ipaja
+LLD0047,Landlord_47,4,True,69,16,Ikeja
+LLD0048,Landlord_48,1,False,41,10,Iyana Ipaja
+LLD0049,Landlord_49,3,True,82,10,Ajah
+LLD0050,Landlord_50,3,True,39,12,Yaba
+LLD0051,Landlord_51,3,False,74,9,Iyana Ipaja
+LLD0052,Landlord_52,3,True,46,1,Iyana Ipaja
+LLD0053,Landlord_53,4,True,55,5,Yaba
+LLD0054,Landlord_54,2,True,91,8,Ikeja
+LLD0055,Landlord_55,0,True,75,11,Yaba
+LLD0056,Landlord_56,3,True,93,12,Iyana Ipaja
+LLD0057,Landlord_57,1,True,31,1,Ikeja
+LLD0058,Landlord_58,3,True,83,11,Ikeja
+LLD0059,Landlord_59,1,True,94,5,Yaba
+LLD0060,Landlord_60,1,False,80,15,Iyana Ipaja
+LLD0061,Landlord_61,3,True,82,5,Ajah
+LLD0062,Landlord_62,4,False,65,12,Iyana Ipaja
+LLD0063,Landlord_63,1,True,55,5,Lekki
+LLD0064,Landlord_64,1,True,58,17,Surulere
+LLD0065,Landlord_65,3,False,50,17,Ajah
+LLD0066,Landlord_66,1,True,40,12,Ikeja
+LLD0067,Landlord_67,1,False,69,15,Ajah
+LLD0068,Landlord_68,3,True,40,15,Ikeja
+LLD0069,Landlord_69,3,False,65,6,Ikeja
+LLD0070,Landlord_70,0,True,88,12,Ajah
+LLD0071,Landlord_71,4,False,68,18,Ikeja
+LLD0072,Landlord_72,4,True,83,14,Ikeja
+LLD0073,Landlord_73,1,False,84,2,Lekki
+LLD0074,Landlord_74,4,True,53,9,Iyana Ipaja
+LLD0075,Landlord_75,1,True,51,5,Iyana Ipaja
+LLD0076,Landlord_76,0,False,98,1,Surulere
+LLD0077,Landlord_77,3,True,85,3,Surulere
+LLD0078,Landlord_78,3,True,62,6,Lekki
+LLD0079,Landlord_79,3,True,65,5,Surulere
+LLD0080,Landlord_80,4,True,49,5,Ajah
+LLD0081,Landlord_81,0,True,91,1,Yaba
+LLD0082,Landlord_82,4,True,55,17,Yaba
+LLD0083,Landlord_83,4,False,95,19,Yaba
+LLD0084,Landlord_84,0,True,69,14,Lekki
+LLD0085,Landlord_85,0,True,46,12,Lekki
+LLD0086,Landlord_86,0,False,30,10,Ikeja
+LLD0087,Landlord_87,0,False,90,18,Yaba
+LLD0088,Landlord_88,3,True,72,11,Ajah
+LLD0089,Landlord_89,2,True,71,2,Surulere
+LLD0090,Landlord_90,2,True,54,18,Ajah
+LLD0091,Landlord_91,0,True,68,7,Surulere
+LLD0092,Landlord_92,2,True,64,15,Yaba
+LLD0093,Landlord_93,2,True,32,11,Yaba
+LLD0094,Landlord_94,0,True,73,18,Yaba
+LLD0095,Landlord_95,2,True,80,12,Lekki
+LLD0096,Landlord_96,4,False,41,6,Surulere
+LLD0097,Landlord_97,1,False,48,13,Lekki
+LLD0098,Landlord_98,1,True,73,16,Lekki
+LLD0099,Landlord_99,0,True,88,18,Iyana Ipaja
+LLD0100,Landlord_100,3,True,78,10,Ajah
+LLD0101,Landlord_101,0,False,90,8,Ajah
+LLD0102,Landlord_102,3,True,46,18,Ikeja
+LLD0103,Landlord_103,1,True,86,1,Lekki
+LLD0104,Landlord_104,0,False,84,8,Surulere
+LLD0105,Landlord_105,4,False,76,6,Iyana Ipaja
+LLD0106,Landlord_106,2,False,41,5,Iyana Ipaja
+LLD0107,Landlord_107,3,False,91,15,Ajah
+LLD0108,Landlord_108,2,True,37,15,Lekki
+LLD0109,Landlord_109,2,True,50,2,Ikeja
+LLD0110,Landlord_110,0,False,99,1,Lekki
+LLD0111,Landlord_111,2,False,54,11,Yaba
+LLD0112,Landlord_112,4,True,41,10,Lekki
+LLD0113,Landlord_113,2,True,44,18,Yaba
+LLD0114,Landlord_114,0,True,88,18,Yaba
+LLD0115,Landlord_115,4,False,55,17,Ikeja
+LLD0116,Landlord_116,1,False,55,8,Surulere
+LLD0117,Landlord_117,2,True,76,15,Ajah
+LLD0118,Landlord_118,0,True,61,8,Lekki
+LLD0119,Landlord_119,1,True,39,17,Yaba
+LLD0120,Landlord_120,1,False,45,12,Lekki
+LLD0121,Landlord_121,3,False,46,8,Surulere
+LLD0122,Landlord_122,4,False,52,14,Ajah
+LLD0123,Landlord_123,2,True,55,4,Surulere
+LLD0124,Landlord_124,0,True,36,1,Ajah
+LLD0125,Landlord_125,3,True,43,1,Iyana Ipaja
+LLD0126,Landlord_126,4,True,36,19,Ajah
+LLD0127,Landlord_127,3,False,38,16,Ikeja
+LLD0128,Landlord_128,4,False,77,14,Surulere
+LLD0129,Landlord_129,4,False,88,16,Yaba
+LLD0130,Landlord_130,2,False,68,5,Iyana Ipaja
+LLD0131,Landlord_131,4,True,47,9,Ikeja
+LLD0132,Landlord_132,3,False,88,2,Lekki
+LLD0133,Landlord_133,4,False,46,18,Surulere
+LLD0134,Landlord_134,2,False,43,6,Yaba
+LLD0135,Landlord_135,2,True,60,9,Ajah
+LLD0136,Landlord_136,3,True,53,1,Yaba
+LLD0137,Landlord_137,1,True,89,9,Lekki
+LLD0138,Landlord_138,1,False,74,16,Iyana Ipaja
+LLD0139,Landlord_139,4,True,32,13,Iyana Ipaja
+LLD0140,Landlord_140,0,True,66,9,Surulere
+LLD0141,Landlord_141,4,True,72,13,Iyana Ipaja
+LLD0142,Landlord_142,3,True,69,9,Surulere
+LLD0143,Landlord_143,3,True,84,11,Surulere
+LLD0144,Landlord_144,3,True,68,4,Surulere
+LLD0145,Landlord_145,3,True,44,2,Ajah
+LLD0146,Landlord_146,3,True,33,6,Ikeja
+LLD0147,Landlord_147,2,False,54,14,Surulere
+LLD0148,Landlord_148,1,True,42,4,Surulere
+LLD0149,Landlord_149,3,False,62,6,Ikeja
+LLD0150,Landlord_150,0,True,45,19,Yaba
+LLD0151,Landlord_151,0,True,71,6,Surulere
+LLD0152,Landlord_152,0,False,95,2,Ajah
+LLD0153,Landlord_153,0,True,84,18,Iyana Ipaja
+LLD0154,Landlord_154,2,True,71,13,Iyana Ipaja
+LLD0155,Landlord_155,0,True,63,9,Lekki
+LLD0156,Landlord_156,3,False,59,19,Lekki
+LLD0157,Landlord_157,4,True,42,13,Iyana Ipaja
+LLD0158,Landlord_158,0,False,42,11,Iyana Ipaja
+LLD0159,Landlord_159,2,True,47,1,Ajah
+LLD0160,Landlord_160,2,True,61,7,Ikeja
+LLD0161,Landlord_161,0,True,68,15,Lekki
+LLD0162,Landlord_162,4,True,75,1,Ikeja
+LLD0163,Landlord_163,0,True,58,12,Ajah
+LLD0164,Landlord_164,2,True,91,7,Iyana Ipaja
+LLD0165,Landlord_165,1,True,91,15,Surulere
+LLD0166,Landlord_166,3,False,86,19,Ikeja
+LLD0167,Landlord_167,2,True,45,1,Iyana Ipaja
+LLD0168,Landlord_168,0,True,85,17,Iyana Ipaja
+LLD0169,Landlord_169,3,False,39,17,Yaba
+LLD0170,Landlord_170,0,True,59,3,Ikeja
+LLD0171,Landlord_171,0,True,54,12,Surulere
+LLD0172,Landlord_172,1,False,34,6,Ikeja
+LLD0173,Landlord_173,3,False,94,11,Iyana Ipaja
+LLD0174,Landlord_174,3,True,78,3,Surulere
+LLD0175,Landlord_175,1,False,32,8,Ajah
+LLD0176,Landlord_176,2,True,74,14,Yaba
+LLD0177,Landlord_177,0,True,43,14,Iyana Ipaja
+LLD0178,Landlord_178,4,True,59,10,Lekki
+LLD0179,Landlord_179,0,False,97,2,Lekki
+LLD0180,Landlord_180,0,True,47,14,Yaba
+LLD0181,Landlord_181,2,True,91,9,Ajah
+LLD0182,Landlord_182,0,True,66,3,Iyana Ipaja
+LLD0183,Landlord_183,1,True,54,8,Ikeja
+LLD0184,Landlord_184,1,True,77,16,Yaba
+LLD0185,Landlord_185,3,True,94,2,Ajah
+LLD0186,Landlord_186,4,True,82,6,Ikeja
+LLD0187,Landlord_187,0,True,44,12,Lekki
+LLD0188,Landlord_188,0,True,78,5,Lekki
+LLD0189,Landlord_189,2,True,97,2,Ikeja
+LLD0190,Landlord_190,1,True,41,16,Yaba
+LLD0191,Landlord_191,4,True,88,5,Lekki
+LLD0192,Landlord_192,3,False,66,15,Iyana Ipaja
+LLD0193,Landlord_193,1,True,90,12,Surulere
+LLD0194,Landlord_194,3,True,72,4,Ikeja
+LLD0195,Landlord_195,2,True,99,15,Ikeja
+LLD0196,Landlord_196,2,True,68,11,Lekki
+LLD0197,Landlord_197,0,True,85,16,Yaba
+LLD0198,Landlord_198,4,True,92,6,Iyana Ipaja
+LLD0199,Landlord_199,3,True,75,14,Yaba
+LLD0200,Landlord_200,1,True,40,18,Ajah
+LLD0201,Landlord_201,2,True,91,12,Ajah
+LLD0202,Landlord_202,0,True,54,11,Surulere
+LLD0203,Landlord_203,0,True,81,13,Lekki
+LLD0204,Landlord_204,3,True,33,11,Lekki
+LLD0205,Landlord_205,2,True,88,16,Lekki
+LLD0206,Landlord_206,4,True,49,15,Surulere
+LLD0207,Landlord_207,2,True,92,15,Ajah
+LLD0208,Landlord_208,3,True,83,4,Yaba
+LLD0209,Landlord_209,3,False,86,11,Surulere
+LLD0210,Landlord_210,2,True,70,19,Surulere
+LLD0211,Landlord_211,3,True,32,15,Yaba
+LLD0212,Landlord_212,2,False,35,4,Lekki
+LLD0213,Landlord_213,1,False,34,13,Iyana Ipaja
+LLD0214,Landlord_214,2,True,34,19,Yaba
+LLD0215,Landlord_215,2,True,83,2,Ajah
+LLD0216,Landlord_216,3,False,76,14,Ikeja
+LLD0217,Landlord_217,3,False,78,4,Ikeja
+LLD0218,Landlord_218,0,True,38,16,Surulere
+LLD0219,Landlord_219,0,True,49,14,Ikeja
+LLD0220,Landlord_220,1,True,90,15,Iyana Ipaja
+LLD0221,Landlord_221,0,True,64,3,Lekki
+LLD0222,Landlord_222,2,True,79,8,Ajah
+LLD0223,Landlord_223,3,True,91,16,Iyana Ipaja
+LLD0224,Landlord_224,0,True,46,10,Ajah
+LLD0225,Landlord_225,0,False,32,4,Ajah
+LLD0226,Landlord_226,1,True,61,18,Lekki
+LLD0227,Landlord_227,1,True,42,2,Surulere
+LLD0228,Landlord_228,2,False,97,17,Ikeja
+LLD0229,Landlord_229,3,False,43,13,Lekki
+LLD0230,Landlord_230,1,True,40,4,Iyana Ipaja
+LLD0231,Landlord_231,0,True,85,11,Surulere
+LLD0232,Landlord_232,3,True,96,7,Iyana Ipaja
+LLD0233,Landlord_233,3,True,58,12,Surulere
+LLD0234,Landlord_234,0,True,38,10,Iyana Ipaja
+LLD0235,Landlord_235,1,True,96,7,Lekki
+LLD0236,Landlord_236,0,True,54,13,Surulere
+LLD0237,Landlord_237,3,True,71,7,Surulere
+LLD0238,Landlord_238,4,True,38,17,Ajah
+LLD0239,Landlord_239,4,True,69,10,Ajah
+LLD0240,Landlord_240,2,True,54,10,Yaba
+LLD0241,Landlord_241,0,True,34,4,Iyana Ipaja
+LLD0242,Landlord_242,0,True,40,4,Ajah
+LLD0243,Landlord_243,2,False,88,7,Yaba
+LLD0244,Landlord_244,2,True,67,1,Ajah
+LLD0245,Landlord_245,2,True,34,12,Iyana Ipaja
+LLD0246,Landlord_246,3,False,77,13,Surulere
+LLD0247,Landlord_247,0,True,47,10,Ikeja
+LLD0248,Landlord_248,3,True,99,15,Iyana Ipaja
+LLD0249,Landlord_249,2,True,66,13,Lekki
+LLD0250,Landlord_250,0,True,89,9,Ajah
+LLD0251,Landlord_251,3,False,77,9,Ajah
+LLD0252,Landlord_252,3,True,57,15,Surulere
+LLD0253,Landlord_253,2,True,98,10,Lekki
+LLD0254,Landlord_254,0,True,69,10,Surulere
+LLD0255,Landlord_255,2,True,74,8,Lekki
+LLD0256,Landlord_256,0,True,91,16,Ikeja
+LLD0257,Landlord_257,4,True,87,17,Ajah
+LLD0258,Landlord_258,1,True,96,5,Ajah
+LLD0259,Landlord_259,1,False,85,4,Ikeja
+LLD0260,Landlord_260,1,True,69,18,Yaba
+LLD0261,Landlord_261,2,True,69,19,Surulere
+LLD0262,Landlord_262,4,True,62,4,Ikeja
+LLD0263,Landlord_263,0,True,35,7,Surulere
+LLD0264,Landlord_264,3,True,48,10,Iyana Ipaja
+LLD0265,Landlord_265,0,True,69,18,Ajah
+LLD0266,Landlord_266,3,True,88,19,Surulere
+LLD0267,Landlord_267,0,True,88,4,Lekki
+LLD0268,Landlord_268,4,True,77,10,Surulere
+LLD0269,Landlord_269,3,False,70,1,Iyana Ipaja
+LLD0270,Landlord_270,2,True,42,18,Ajah
+LLD0271,Landlord_271,0,True,74,5,Ikeja
+LLD0272,Landlord_272,0,True,82,15,Iyana Ipaja
+LLD0273,Landlord_273,3,False,71,17,Ajah
+LLD0274,Landlord_274,2,True,92,3,Surulere
+LLD0275,Landlord_275,2,True,56,12,Yaba
+LLD0276,Landlord_276,4,False,67,2,Yaba
+LLD0277,Landlord_277,2,False,89,1,Lekki
+LLD0278,Landlord_278,2,False,36,17,Ajah
+LLD0279,Landlord_279,2,True,34,16,Yaba
+LLD0280,Landlord_280,1,True,74,5,Ikeja
+LLD0281,Landlord_281,4,True,87,15,Ajah
+LLD0282,Landlord_282,0,False,60,3,Ikeja
+LLD0283,Landlord_283,3,True,52,7,Ikeja
+LLD0284,Landlord_284,0,True,71,11,Yaba
+LLD0285,Landlord_285,4,True,39,10,Ajah
+LLD0286,Landlord_286,3,False,61,9,Surulere
+LLD0287,Landlord_287,4,True,82,14,Iyana Ipaja
+LLD0288,Landlord_288,2,True,59,13,Yaba
+LLD0289,Landlord_289,3,True,68,2,Yaba
+LLD0290,Landlord_290,2,True,60,3,Surulere
+LLD0291,Landlord_291,0,True,31,7,Ajah
+LLD0292,Landlord_292,0,True,41,18,Ajah
+LLD0293,Landlord_293,3,True,68,3,Ikeja
+LLD0294,Landlord_294,3,True,95,10,Surulere
+LLD0295,Landlord_295,4,True,42,7,Surulere
+LLD0296,Landlord_296,4,True,75,9,Ajah
+LLD0297,Landlord_297,2,True,56,17,Ikeja
+LLD0298,Landlord_298,3,True,46,11,Yaba
+LLD0299,Landlord_299,0,True,89,7,Lekki
+LLD0300,Landlord_300,4,True,93,14,Iyana Ipaja
+LLD0301,Landlord_301,4,True,64,19,Yaba
+LLD0302,Landlord_302,0,True,99,4,Ajah
+LLD0303,Landlord_303,4,False,59,6,Iyana Ipaja
+LLD0304,Landlord_304,2,True,92,10,Lekki
+LLD0305,Landlord_305,3,False,57,7,Lekki
+LLD0306,Landlord_306,0,True,89,13,Ikeja
+LLD0307,Landlord_307,3,True,66,14,Iyana Ipaja
+LLD0308,Landlord_308,4,False,51,4,Ikeja
+LLD0309,Landlord_309,4,True,97,8,Yaba
+LLD0310,Landlord_310,0,True,49,5,Surulere
+LLD0311,Landlord_311,2,True,97,1,Surulere
+LLD0312,Landlord_312,1,True,93,4,Surulere
+LLD0313,Landlord_313,0,False,46,3,Iyana Ipaja
+LLD0314,Landlord_314,1,False,41,9,Surulere
+LLD0315,Landlord_315,1,False,51,8,Yaba
+LLD0316,Landlord_316,2,True,46,1,Ikeja
+LLD0317,Landlord_317,1,False,39,6,Iyana Ipaja
+LLD0318,Landlord_318,1,False,94,9,Ikeja
+LLD0319,Landlord_319,2,True,51,7,Iyana Ipaja
+LLD0320,Landlord_320,1,True,79,4,Ikeja
+LLD0321,Landlord_321,1,False,43,13,Lekki
+LLD0322,Landlord_322,1,True,93,17,Ikeja
+LLD0323,Landlord_323,0,False,76,2,Surulere
+LLD0324,Landlord_324,0,True,58,5,Lekki
+LLD0325,Landlord_325,0,False,65,12,Ikeja
+LLD0326,Landlord_326,2,True,81,8,Iyana Ipaja
+LLD0327,Landlord_327,4,True,36,6,Iyana Ipaja
+LLD0328,Landlord_328,1,True,58,8,Iyana Ipaja
+LLD0329,Landlord_329,1,False,40,18,Ajah
+LLD0330,Landlord_330,2,True,62,3,Yaba
+LLD0331,Landlord_331,1,True,35,12,Iyana Ipaja
+LLD0332,Landlord_332,0,True,61,3,Lekki
+LLD0333,Landlord_333,4,False,80,6,Iyana Ipaja
+LLD0334,Landlord_334,3,True,87,2,Ajah
+LLD0335,Landlord_335,1,False,55,12,Surulere
+LLD0336,Landlord_336,0,True,75,2,Lekki
+LLD0337,Landlord_337,3,True,58,6,Ajah
+LLD0338,Landlord_338,4,True,33,17,Surulere
+LLD0339,Landlord_339,3,True,42,3,Lekki
+LLD0340,Landlord_340,0,False,68,2,Ikeja
+LLD0341,Landlord_341,3,True,44,8,Yaba
+LLD0342,Landlord_342,2,True,58,12,Yaba
+LLD0343,Landlord_343,3,False,58,4,Ajah
+LLD0344,Landlord_344,1,True,61,5,Surulere
+LLD0345,Landlord_345,1,True,31,13,Yaba
+LLD0346,Landlord_346,2,False,76,15,Surulere
+LLD0347,Landlord_347,0,True,51,16,Surulere
+LLD0348,Landlord_348,1,True,56,10,Ajah
+LLD0349,Landlord_349,4,False,96,16,Ajah
+LLD0350,Landlord_350,1,True,85,12,Ajah
+LLD0351,Landlord_351,1,True,50,17,Yaba
+LLD0352,Landlord_352,0,True,76,16,Ajah
+LLD0353,Landlord_353,3,False,88,12,Yaba
+LLD0354,Landlord_354,1,True,35,8,Ajah
+LLD0355,Landlord_355,2,True,48,3,Iyana Ipaja
+LLD0356,Landlord_356,3,False,86,16,Surulere
+LLD0357,Landlord_357,4,False,98,13,Ajah
+LLD0358,Landlord_358,0,True,32,19,Lekki
+LLD0359,Landlord_359,4,True,30,8,Surulere
+LLD0360,Landlord_360,3,True,87,5,Surulere
+LLD0361,Landlord_361,3,False,67,8,Ajah
+LLD0362,Landlord_362,3,True,44,12,Ikeja
+LLD0363,Landlord_363,4,True,63,1,Ajah
+LLD0364,Landlord_364,3,False,90,6,Surulere
+LLD0365,Landlord_365,4,False,64,18,Lekki
+LLD0366,Landlord_366,3,True,93,8,Surulere
+LLD0367,Landlord_367,2,False,54,7,Lekki
+LLD0368,Landlord_368,3,True,53,1,Yaba
+LLD0369,Landlord_369,4,False,41,16,Iyana Ipaja
+LLD0370,Landlord_370,1,True,47,12,Surulere
+LLD0371,Landlord_371,3,True,44,6,Ajah
+LLD0372,Landlord_372,1,False,56,2,Yaba
+LLD0373,Landlord_373,2,True,89,14,Iyana Ipaja
+LLD0374,Landlord_374,0,True,75,4,Ajah
+LLD0375,Landlord_375,2,False,46,1,Ikeja
+LLD0376,Landlord_376,3,False,82,18,Ajah
+LLD0377,Landlord_377,1,True,37,13,Lekki
+LLD0378,Landlord_378,1,True,56,2,Lekki
+LLD0379,Landlord_379,4,True,75,9,Ikeja
+LLD0380,Landlord_380,1,True,79,2,Yaba
+LLD0381,Landlord_381,4,True,32,9,Iyana Ipaja
+LLD0382,Landlord_382,0,True,93,1,Ajah
+LLD0383,Landlord_383,3,False,73,11,Lekki
+LLD0384,Landlord_384,4,True,82,3,Yaba
+LLD0385,Landlord_385,0,True,53,4,Ikeja
+LLD0386,Landlord_386,1,True,89,18,Surulere
+LLD0387,Landlord_387,1,False,32,6,Lekki
+LLD0388,Landlord_388,0,True,49,3,Ikeja
+LLD0389,Landlord_389,1,True,75,11,Ajah
+LLD0390,Landlord_390,0,True,44,15,Iyana Ipaja
+LLD0391,Landlord_391,4,True,54,5,Lekki
+LLD0392,Landlord_392,4,True,46,10,Lekki
+LLD0393,Landlord_393,0,False,38,12,Ajah
+LLD0394,Landlord_394,4,False,67,15,Surulere
+LLD0395,Landlord_395,4,True,77,17,Yaba
+LLD0396,Landlord_396,4,True,89,10,Iyana Ipaja
+LLD0397,Landlord_397,2,False,92,6,Lekki
+LLD0398,Landlord_398,3,False,31,18,Iyana Ipaja
+LLD0399,Landlord_399,1,True,40,13,Lekki
+LLD0400,Landlord_400,2,True,93,3,Iyana Ipaja
+LLD0401,Landlord_401,4,True,50,10,Ikeja
+LLD0402,Landlord_402,0,True,47,14,Lekki
+LLD0403,Landlord_403,4,False,93,6,Iyana Ipaja
+LLD0404,Landlord_404,3,False,67,3,Yaba
+LLD0405,Landlord_405,4,False,61,16,Ikeja
+LLD0406,Landlord_406,0,True,40,7,Ikeja
+LLD0407,Landlord_407,3,True,74,14,Yaba
+LLD0408,Landlord_408,4,False,62,9,Iyana Ipaja
+LLD0409,Landlord_409,3,False,70,15,Ajah
+LLD0410,Landlord_410,1,True,37,3,Yaba
+LLD0411,Landlord_411,1,False,40,2,Iyana Ipaja
+LLD0412,Landlord_412,4,False,80,2,Yaba
+LLD0413,Landlord_413,3,True,70,3,Yaba
+LLD0414,Landlord_414,0,True,46,18,Lekki
+LLD0415,Landlord_415,4,True,75,14,Iyana Ipaja
+LLD0416,Landlord_416,1,True,61,18,Ajah
+LLD0417,Landlord_417,1,True,83,10,Lekki
+LLD0418,Landlord_418,4,False,49,2,Yaba
+LLD0419,Landlord_419,3,True,62,1,Surulere
+LLD0420,Landlord_420,1,True,69,4,Yaba
+LLD0421,Landlord_421,3,True,61,14,Yaba
+LLD0422,Landlord_422,1,True,31,1,Iyana Ipaja
+LLD0423,Landlord_423,1,False,62,14,Iyana Ipaja
+LLD0424,Landlord_424,2,True,59,16,Lekki
+LLD0425,Landlord_425,1,True,62,14,Ajah
+LLD0426,Landlord_426,0,False,55,3,Lekki
+LLD0427,Landlord_427,4,True,51,3,Ikeja
+LLD0428,Landlord_428,4,True,95,9,Yaba
+LLD0429,Landlord_429,3,True,67,6,Surulere
+LLD0430,Landlord_430,1,True,75,13,Yaba
+LLD0431,Landlord_431,0,True,44,2,Yaba
+LLD0432,Landlord_432,3,True,73,8,Lekki
+LLD0433,Landlord_433,2,True,78,2,Surulere
+LLD0434,Landlord_434,3,False,90,4,Surulere
+LLD0435,Landlord_435,3,True,96,15,Surulere
+LLD0436,Landlord_436,1,True,35,4,Lekki
+LLD0437,Landlord_437,2,True,38,13,Yaba
+LLD0438,Landlord_438,3,True,35,12,Lekki
+LLD0439,Landlord_439,0,True,61,13,Iyana Ipaja
+LLD0440,Landlord_440,0,True,70,14,Iyana Ipaja
+LLD0441,Landlord_441,4,False,37,18,Lekki
+LLD0442,Landlord_442,2,True,79,6,Surulere
+LLD0443,Landlord_443,2,True,91,11,Yaba
+LLD0444,Landlord_444,4,True,91,2,Lekki
+LLD0445,Landlord_445,3,False,36,19,Lekki
+LLD0446,Landlord_446,2,True,33,19,Lekki
+LLD0447,Landlord_447,0,True,35,5,Ikeja
+LLD0448,Landlord_448,0,True,87,19,Iyana Ipaja
+LLD0449,Landlord_449,1,False,51,2,Surulere
+LLD0450,Landlord_450,2,True,55,10,Ajah
+LLD0451,Landlord_451,3,False,32,2,Surulere
+LLD0452,Landlord_452,4,True,70,11,Ajah
+LLD0453,Landlord_453,4,True,89,18,Ikeja
+LLD0454,Landlord_454,3,True,43,15,Lekki
+LLD0455,Landlord_455,1,True,41,9,Ikeja
+LLD0456,Landlord_456,4,True,41,19,Ikeja
+LLD0457,Landlord_457,2,True,42,9,Yaba
+LLD0458,Landlord_458,1,False,54,3,Iyana Ipaja
+LLD0459,Landlord_459,2,True,74,9,Ajah
+LLD0460,Landlord_460,0,True,48,14,Lekki
+LLD0461,Landlord_461,1,True,84,19,Ajah
+LLD0462,Landlord_462,4,True,74,7,Surulere
+LLD0463,Landlord_463,1,True,37,16,Ajah
+LLD0464,Landlord_464,1,True,82,16,Surulere
+LLD0465,Landlord_465,1,True,84,1,Iyana Ipaja
+LLD0466,Landlord_466,1,False,61,4,Surulere
+LLD0467,Landlord_467,2,False,80,4,Ajah
+LLD0468,Landlord_468,0,True,73,7,Ajah
+LLD0469,Landlord_469,3,True,99,8,Surulere
+LLD0470,Landlord_470,1,True,47,17,Ikeja
+LLD0471,Landlord_471,4,True,51,5,Iyana Ipaja
+LLD0472,Landlord_472,1,True,66,7,Yaba
+LLD0473,Landlord_473,4,True,85,4,Lekki
+LLD0474,Landlord_474,2,False,88,6,Ajah
+LLD0475,Landlord_475,4,True,32,7,Lekki
+LLD0476,Landlord_476,3,True,57,18,Yaba
+LLD0477,Landlord_477,0,True,64,5,Lekki
+LLD0478,Landlord_478,4,True,90,3,Yaba
+LLD0479,Landlord_479,4,True,83,7,Surulere
+LLD0480,Landlord_480,0,True,92,14,Ikeja
+LLD0481,Landlord_481,3,True,36,7,Ajah
+LLD0482,Landlord_482,1,False,78,5,Yaba
+LLD0483,Landlord_483,4,True,60,5,Lekki
+LLD0484,Landlord_484,0,True,87,2,Ajah
+LLD0485,Landlord_485,2,True,90,6,Ikeja
+LLD0486,Landlord_486,0,True,53,15,Surulere
+LLD0487,Landlord_487,2,True,49,10,Ajah
+LLD0488,Landlord_488,3,False,66,7,Yaba
+LLD0489,Landlord_489,1,False,33,5,Ikeja
+LLD0490,Landlord_490,0,False,49,1,Lekki
+LLD0491,Landlord_491,4,True,89,13,Ikeja
+LLD0492,Landlord_492,3,True,53,18,Ikeja
+LLD0493,Landlord_493,0,True,79,13,Iyana Ipaja
+LLD0494,Landlord_494,4,True,78,18,Ikeja
+LLD0495,Landlord_495,0,False,80,5,Ikeja
+LLD0496,Landlord_496,2,True,65,13,Ajah
+LLD0497,Landlord_497,0,True,95,4,Lekki
+LLD0498,Landlord_498,0,True,63,17,Ajah
+LLD0499,Landlord_499,0,True,65,3,Ajah
