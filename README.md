@@ -88,10 +88,12 @@ An assessment of rental revenue from successful transactions revealed significan
 ## CONCLUSION
 This report highlights key market trends within Lagos’ rental property sector using SQL-based insights. While high-end rental listings dominate specific areas, engagement levels and lease success rates remain robust across the city. Addressing inactive listings and optimizing pricing models can enhance market efficiency and attract a broader range of tenants.
 
-Tools
+## Tools
 -EXCEL FOR DATA CLEANING
--SQL QUERIES
+-SQL 
 -POWER BI FOR VISUALIZATION
+
+
 
 
 
